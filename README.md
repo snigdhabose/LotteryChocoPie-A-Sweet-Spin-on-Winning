@@ -1,6 +1,6 @@
 # Lottery Choco Pie: A Sweet Spin on Winning! 🍫🎉
 
-![Lottery Choco Pie](![image](https://github.com/user-attachments/assets/0da7cdc8-cd30-459d-a72d-0c4fe5ea9754)
+![image](https://github.com/user-attachments/assets/0da7cdc8-cd30-459d-a72d-0c4fe5ea9754)
 
 **Description:**  
 Lottery Choco Pie is an interactive lottery game designed to attract Gen Z to the exciting world of lotteries. With colorful graphics and engaging gameplay, this project aims to make the lottery experience fun and appealing. It was awarded 2nd prize at the Hacker413 Hackathon at UMass Amherst, presented by the Mass Lottery.
